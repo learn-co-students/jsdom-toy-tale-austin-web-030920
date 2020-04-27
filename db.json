@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 19
     },
     {
       "id": 3,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-ZmJWDp66wkI%2FTVlNMblSb-I%2FAAAAAAAAAAw%2FNrhq9iMRl-A%2Fs1600%2Ftoy%2Bstory%2B3%2BJessie1.jpg&f=1&nofb=1",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
